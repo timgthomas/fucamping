@@ -1,0 +1,15 @@
+:root,
+body {
+  height: 100%;
+}
+
+body {
+  background: #231f20;
+  display: flex;
+}
+
+canvas {
+  aspect-ratio: 16 / 10;
+  height: auto;
+  margin: auto;
+}
